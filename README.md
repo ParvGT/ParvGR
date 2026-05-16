@@ -37,14 +37,6 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParvGR&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvGR&layout=compact&theme=tokyonight" />
-</p>
-
 <br/>
 
 ## 📬 Connect With Me
